@@ -1,1 +1,0 @@
-{"version":3,"file":"types.js","sourceRoot":"","sources":["../../../src/removeString/types.ts"],"names":[],"mappings":"","sourcesContent":["export type TStringRemove = \"start\" | \"base\" | \"end\";\r\n\r\nexport type TStringRemoveStrategy = { [key in TStringRemove]: (target: string, findIndex: number) => string };\r\n"]}

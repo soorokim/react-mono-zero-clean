@@ -1,1 +1,0 @@
-{"version":3,"file":"index.js","sourceRoot":"","sources":["../../src/index.ts"],"names":[],"mappings":";;;;;;AAAA,2BAAqC;AAA5B,yGAAA,OAAO,OAAM;AACtB,+CAAyD;AAAhD,6HAAA,OAAO,OAAgB","sourcesContent":["export { default as fp } from \"./fp\";\r\nexport { default as removeString } from \"./removeString\";\r\n"]}
